@@ -1,0 +1,21 @@
+*{
+
+	text-align:justify;
+}
+
+
+i.icon{
+
+	font-size: 2em;
+}
+
+.container.main
+{
+	margin-top: 2em;
+}
+
+#same
+{
+	display:inline;
+}
+
